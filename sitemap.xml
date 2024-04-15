@@ -16,6 +16,21 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://bm.kerzo.ca/documentation/</loc>
+         <lastmod>2024-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://bm.kerzo.ca/donnees/</loc>
+         <lastmod>2024-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://bm.kerzo.ca/git/</loc>
+         <lastmod>2024-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://bm.kerzo.ca/piratage/</loc>
          <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
