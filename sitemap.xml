@@ -31,7 +31,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://bm.kerzo.ca/humour/</loc>
+         <lastmod>2024-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://bm.kerzo.ca/langues/</loc>
+         <lastmod>2024-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://bm.kerzo.ca/pedagogie/</loc>
          <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
