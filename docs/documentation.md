@@ -2,11 +2,12 @@
 
 ## Création de sites Web
 
-| Site                                                                | Description                                     |
-| ------------------------------------------------------------------- | ----------------------------------------------- |
-| [MkDocs](https://www.mkdocs.org)                                    | Création de sites Web complets avec du MarkDown |
-| [Material for MKDocs](https://squidfunk.github.io/mkdocs-material/) | Thème pour MkDocs                               |
-| [Mermaid.js](https://mermaid-js.github.io/mermaid/#/)               | Création de diagrammes en MarkDown              |
+| Site                                                                | Description                                       |
+| ------------------------------------------------------------------- | ------------------------------------------------- |
+| [MkDocs](https://www.mkdocs.org)                                    | Création de sites Web complets avec du MarkDown   |
+| [Material for MKDocs](https://squidfunk.github.io/mkdocs-material/) | Thème pour MkDocs                                 |
+| [Mermaid.js](https://mermaid-js.github.io/mermaid/#/)               | Création de diagrammes en MarkDown                |
+| [LinkChecker](https://github.com/scivision/linkchecker-markdown)    | Vérification des liens dans les fichiers Markdown |
 
 ## Convertisseurs et éditeurs
 

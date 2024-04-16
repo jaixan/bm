@@ -9,10 +9,13 @@ nav:
       - 'Piratage éthique': piratage.md
       - 'Support technique': support.md
       - 'Technologies émergentes': techno.md
+  - 'Pédagogie': pedagogie.md
+  - 'Humour': humour.md
   - 'Outils':
       - 'Documentation': documentation.md
       - 'Données': donnees.md
       - 'Git': git.md
+      - 'Langues': langues.md
 theme:
   name: material
   favicon: images/red-bookmark.png

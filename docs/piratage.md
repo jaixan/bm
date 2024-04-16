@@ -39,15 +39,13 @@
 
 ## Cybersécurité - Reconnaissance passive
 
-| Site                                                                                                     | Description                                                                                                                                 |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Registre des entreprise (Québec)](http://www.registreentreprises.gouv.qc.ca/fr/default.aspx)            | Donne de l'information sur l'entreprise, incluant le nom du propriétaire et possiblement des adresses                                       |
-| [Cadastre du Québec](https://appli.mern.gouv.qc.ca/infolot/)                                             | Consultation du cadastre du Québec                                                                                                          |
-| [CanLII](https://www.canlii.org/fr/)                                                                     | Tous les documents des tribunaux canadiens                                                                                                  |
-| [OSINT Framework](https://osintframework.com/)                                                           | Une grande quantité d'outils d'intelligence du domaine public                                                                               |
-| [DNS Dumpster](https://dnsdumpster.com/)                                                                 | Recherche de sous-domaines                                                                                                                  |
-| [Google Certificate Transparency Report](https://transparencyreport.google.com/https/certificates?hl=en) | Recherche les services d'un domaine via les certificats SSL émis                                                                            |
-| [Google Dorks Database](https://www.exploit-db.com/google-hacking-database)                              | Grâce à des recherches dans Google, vous pouvez trouver des services ou des documents qui peuvent aider à découvrir les surfaces d'attaque. |
-| [OSINT Curio](https://osintcurio.us)                                                                     | Ressources pour la reconnaissance passive                                                                                                   |
-| [Awesome OSINT](https://github.com/jivoi/awesome-osint)                                                  | Collection d'outils OSINT                                                                                                                   |
-| []()                                                                                                     |                                                                                                                                             |
+| Site                                                                                          | Description                                                                                           |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| [Registre des entreprise (Québec)](http://www.registreentreprises.gouv.qc.ca/fr/default.aspx) | Donne de l'information sur l'entreprise, incluant le nom du propriétaire et possiblement des adresses |
+| [Cadastre du Québec](https://appli.mern.gouv.qc.ca/infolot/)                                  | Consultation du cadastre du Québec                                                                    |
+| [CanLII](https://www.canlii.org/fr/)                                                          | Tous les documents des tribunaux canadiens                                                            |
+| [OSINT Framework](https://osintframework.com/)                                                | Une grande quantité d'outils d'intelligence du domaine public                                         |
+| [DNS Dumpster](https://dnsdumpster.com/)                                                      | Recherche de sous-domaines                                                                            |
+| [OSINT Curio](https://osintcurio.us)                                                          | Ressources pour la reconnaissance passive                                                             |
+| [Awesome OSINT](https://github.com/jivoi/awesome-osint)                                       | Collection d'outils OSINT                                                                             |
+| []()                                                                                          |                                                                                                       |

@@ -70,3 +70,9 @@
 | [WealthSimple Tax](https://www.wealthsimple.com/en-ca/tax)                                                                                                         | Outil en ligne pour faire ses impôts                       |
 | [Mon dossier particulier (ARC)](https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-particuliers/dossier-particuliers.html) | Site de l'Agence du revenu du Canada pour les particuliers |
 | [Equifax](https://www.consumer.equifax.ca/personal/)                                                                                                               | Site de vérification de crédit                             |
+
+## Média sociaux
+
+| Site                                                                          | Description        |
+| ----------------------------------------------------------------------------- | ------------------ |
+| [Instagram de Fanta](https://www.instagram.com/acatnamedfanta/p/CK_pEZdplxj/) | Instagram de Fanta |
