@@ -1,0 +1,1 @@
+- [The Modern React Tutorial (RSCs, Next.js, Shadui, Drizzle, TS, and More) (3 hour video)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldr.tech%2F2vfepm/1/0100018f14f907e6-88b19d26-43c1-41bc-bdb4-3bf3948f5698-000000/3n4y8qlDsdNkcBzpH7Xmixg07Ak3l9TFIElebvQjZBA=350)]

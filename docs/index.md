@@ -2,15 +2,24 @@
 
 ## Cégep de Victoriaville
 
-| Site                                                                                                        | Description                                                       |
-| ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| [Portail Omnivox](https://www.cegepvicto.ca/connexion/)                                                     | Outil de gestion de classe et de communication                    |
-| [Grille de préalables](https://informatique.apical.xyz)                                                     | Grille des préalables des cours de la technique de l'informatique |
-| [Office 365](https://www.office.com)                                                                        | Suite bureautique en ligne                                        |
-| [Valise Virtuelle](http://valisevirtuelle.cegepvicto.ca)                                                    | Gestion des plans cadres et plans de cours                        |
-| [Programme de la technique de l'informatique](https://www.cegepvicto.ca/programme/techniques-informatique/) | Description des cours de la technique de l'informatique           |
-| [Techniques de l'informatique](https://techinfo.kerzo.ca)                                                   | Site pour les élèves de la technique de l'informatique            |
-| [Raoul](https://raoul.kerzo.ca)                                                                             | Outil de rétroaction assisté par ordinateur                       |
+| Site                                                                                                                            | Description                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [Portail Omnivox](https://www.cegepvicto.ca/connexion/)                                                                         | Outil de gestion de classe et de communication                                       |
+| [Grille de préalables](https://informatique.apical.xyz)                                                                         | Grille des préalables des cours de la technique de l'informatique                    |
+| [Office 365](https://www.office.com)                                                                                            | Suite bureautique en ligne                                                           |
+| [Valise Virtuelle](http://valisevirtuelle.cegepvicto.ca)                                                                        | Gestion des plans cadres et plans de cours                                           |
+| [Programme de la technique de l'informatique](https://www.cegepvicto.ca/programme/techniques-informatique/)                     | Description des cours de la technique de l'informatique                              |
+| [Techniques de l'informatique](https://techinfo.kerzo.ca)                                                                       | Site pour les élèves de la technique de l'informatique                               |
+| [Raoul](https://raoul.kerzo.ca)                                                                                                 | Outil de rétroaction assisté par ordinateur                                          |
+| [Calendrier scolaires](https://www.cegepvicto.ca/eleves-actuels/services-eleve/calendriers-scolaires/)                          | Calendriers scolaires du Cégep de Victoriaville                                      |
+| [PIEA](https://www.cegepvicto.ca/wp-content/uploads/2023/04/Politique-institutionnelle-devaluation-des-apprentissages-PIEA.pdf) | Politique institutionnelle d'évaluation des apprentissages du Cégep de Victoriaville |
+
+## Formations
+
+| Site                                                                                    | Description                                                     |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| [Zero to Mastery](https://academy.zerotomastery.io)                                     | Formations en développement Web et en intelligence artificielle |
+| [ZTM Passport](https://passport.zerotomastery.io/user/5faa945d80818b7a62eea77cc6c6b0ac) | Accès à ZTM Passport pour les étudiants de ZTM                  |
 
 ## Sites de notes de cours
 
@@ -67,6 +76,7 @@
 | Site                                                                                                                                                               | Description                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
 | [Revenu Québec](https://www.revenuquebec.ca/fr/)                                                                                                                   | Site de Revenu Québec                                      |
+| [Calcul retenue impôt sur salaire](https://ca.talent.com/fr/tax-calculator)                                                                                        | Calculateur de retenue d'impôt sur le salaire              |
 | [WealthSimple Tax](https://www.wealthsimple.com/en-ca/tax)                                                                                                         | Outil en ligne pour faire ses impôts                       |
 | [Mon dossier particulier (ARC)](https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-particuliers/dossier-particuliers.html) | Site de l'Agence du revenu du Canada pour les particuliers |
 | [Equifax](https://www.consumer.equifax.ca/personal/)                                                                                                               | Site de vérification de crédit                             |
