@@ -5,6 +5,7 @@ nav:
   - 'Accueil': index.md
   - 'Cours':
       - 'Bases de données 1': bd1.md
+      - 'Bases de données 2': bd2.md
       - 'Développement Web 3': devweb3.md
       - 'Piratage éthique': piratage.md
       - 'Support technique': support.md
@@ -16,6 +17,7 @@ nav:
       - 'Données': donnees.md
       - 'Git': git.md
       - 'Langues': langues.md
+      - 'Développement': developpement.md
   - 'Liste de lecture': readinglist.md
 theme:
   name: material
