@@ -19,6 +19,17 @@ nav:
       - 'Langues': langues.md
       - 'Développement': developpement.md
   - 'Liste de lecture': readinglist.md
+  - 'Recettes':
+      - 'Livre de recettes': recettes/livre.md
+      - 'Beans dans le sirop': recettes/beans.md
+      - 'Boeuf bourguignon': recettes/boeuf-bourguignon.md
+      - 'Bouilli de porc': recettes/bouilli-de-porc.md
+      - 'Carbonara': recettes/carbonara.md
+      - 'Carrés aux dattes': recettes/carres-aux-dattes.md
+      - 'Naan': recettes/naan.md
+      - 'Pain aux bananes': recettes/pain-bananes.md
+      - 'Riz aux haricots': recettes/riz-aux-haricots.md
+      - 'Sauce arachide': recettes/sauce-arachide.md
 theme:
   name: material
   favicon: images/red-bookmark.png
