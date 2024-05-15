@@ -21,15 +21,33 @@ nav:
   - 'Liste de lecture': readinglist.md
   - 'Recettes':
       - 'Livre de recettes': recettes/livre.md
-      - 'Beans dans le sirop': recettes/beans.md
-      - 'Boeuf bourguignon': recettes/boeuf-bourguignon.md
-      - 'Bouilli de porc': recettes/bouilli-de-porc.md
-      - 'Carbonara': recettes/carbonara.md
-      - 'Carrés aux dattes': recettes/carres-aux-dattes.md
-      - 'Naan': recettes/naan.md
-      - 'Pain aux bananes': recettes/pain-bananes.md
-      - 'Riz aux haricots': recettes/riz-aux-haricots.md
-      - 'Sauce arachide': recettes/sauce-arachide.md
+      - 'Anglais':
+          - 'Popover': recettes/popover.md
+      - 'Asiatique':
+          - 'Sauce arachide': recettes/sauce-arachide.md
+      - 'Français':
+          - 'Boeuf bourguignon': recettes/boeuf-bourguignon.md
+          - 'Pommes de terre à la bretonne': recettes/pommes-terre-bretonnes.md
+      - 'Indien':
+          - 'Curry de pois chiches': recettes/curry-pois-chiches.md
+          - 'Naan': recettes/naan.md
+      - 'Italien':
+          - 'Carbonara': recettes/carbonara.md
+      - 'Jamaïcain':
+          - 'Riz aux haricots': recettes/riz-aux-haricots.md
+      - 'Québécois':
+          - 'Beans dans le sirop': recettes/beans.md
+          - 'Bouilli de porc': recettes/bouilli-de-porc.md
+          - 'Eggs Newport': recettes/eggs-newport.md
+          - 'Soupe de pommes de terre et cheddar': recettes/soupe-patates-cheddar.md
+      - 'Desserts':
+          - 'Carrés aux dattes': recettes/carres-aux-dattes.md
+          - 'Croustade aux pommes': recettes/croustade-pommes.md
+          - 'Gâteau graham': recettes/gateau-graham.md
+          - 'Grand-père dans le sirop': recettes/grand-pere.md
+          - 'Pain aux bananes': recettes/pain-bananes.md
+          - 'Renversé aux fraises': recettes/renverse-aux-fraises.md
+
 theme:
   name: material
   favicon: images/red-bookmark.png

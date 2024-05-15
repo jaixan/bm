@@ -1,25 +1,43 @@
 # Livre de recettes d'Étienne
 
-## Asiatique
+# Anglais
 
+- [Popover](popover.md)
+
+# Asiatique
+
+- [Sauce arachide](sauce-arachide.md)
+
+# Français
+
+- [Boeuf bourguignon](boeuf-bourguignon.md)
+- [Pommes de terre à la bretonne](pommes-terre-bretonnes.md)
+
+# Indien
+
+- [Curry de pois chiches](curry-pois-chiches.md)
 - [Naan](naan.md)
-- [Sauce trempette à l'arachide](sauce-arachide.md)
 
-## Italien
+# Italien
 
-- [Spaghetti carbonara](carbonara.md)
+- [Carbonara](carbonara.md)
 
-## Jamaïcain
+# Jamaïcain
 
 - [Riz aux haricots](riz-aux-haricots.md)
 
-## Québécois
+# Québécois
 
+- [Beans dans le sirop](beans.md)
 - [Bouilli de porc](bouilli-de-porc.md)
-- [Beans au sirop](beans.md)
-- [Boeuf bourguignon](boeuf-bourguignon.md)
+- [Eggs Newport](eggs-newport.md)
+- [Soupe pomme de terre et cheddar](soupe-patates-cheddar.md)
 
-## Desserts
+# Desserts
 
 - [Carrés aux dattes](carres-aux-dattes.md)
+- [Croustade aux pommes](croustade-pommes.md)
+- [Gâteau Graham](gateau-graham.md)
+- [Grand-père dans le sirop](grand-pere.md)
 - [Pain aux bananes](pain-bananes.md)
+- [Renversé aux fraises](renverse-aux-fraises.md)
