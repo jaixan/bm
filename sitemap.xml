@@ -111,6 +111,21 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://bm.kerzo.ca/recettes/eggs-newport/</loc>
+         <lastmod>2024-05-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://bm.kerzo.ca/recettes/gateau-graham/</loc>
+         <lastmod>2024-05-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://bm.kerzo.ca/recettes/grand-pere/</loc>
+         <lastmod>2024-05-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://bm.kerzo.ca/recettes/livre/</loc>
          <lastmod>2024-05-15</lastmod>
          <changefreq>daily</changefreq>
@@ -126,12 +141,32 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://bm.kerzo.ca/recettes/pommes-terre-bretonnes/</loc>
+         <lastmod>2024-05-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://bm.kerzo.ca/recettes/popover/</loc>
+         <lastmod>2024-05-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://bm.kerzo.ca/recettes/renverse-aux-fraises/</loc>
+         <lastmod>2024-05-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://bm.kerzo.ca/recettes/riz-aux-haricots/</loc>
          <lastmod>2024-05-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://bm.kerzo.ca/recettes/sauce-arachide/</loc>
+         <lastmod>2024-05-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://bm.kerzo.ca/recettes/soupe-patates-cheddar/</loc>
          <lastmod>2024-05-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
