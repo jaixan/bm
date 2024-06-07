@@ -12,6 +12,7 @@ nav:
       - 'Technologies émergentes': techno.md
   - 'Pédagogie': pedagogie.md
   - 'Humour': humour.md
+  - 'Maison': maison.md
   - 'Outils':
       - 'Documentation': documentation.md
       - 'Données': donnees.md
