@@ -4,7 +4,7 @@
 
 | Site                                                                     | Description                                |
 | ------------------------------------------------------------------------ | ------------------------------------------ |
-| [Piratage Éthique](https://piratage.kerzo.ca)                            | Site de notes de cours de Piratage Éthique |
+| [Piratage Éthique](https://piratage.profinfo.ca)                         | Site de notes de cours de Piratage Éthique |
 | [Source du site de Piratage Éthique](https://github.com/jaixan/piratage) | Source du site de Piratage Éthique         |
 
 ## Outils

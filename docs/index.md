@@ -15,7 +15,7 @@
 | [Office 365](https://www.office.com)                                                                                            | Suite bureautique en ligne                                                           |
 | [Valise Virtuelle](http://valisevirtuelle.cegepvicto.ca)                                                                        | Gestion des plans cadres et plans de cours                                           |
 | [Programme de la technique de l'informatique](https://www.cegepvicto.ca/programme/techniques-informatique/)                     | Description des cours de la technique de l'informatique                              |
-| [Techniques de l'informatique](https://techinfo.kerzo.ca)                                                                       | Site pour les élèves de la technique de l'informatique                               |
+| [Techniques de l'informatique](https://techinfo.profinfo.ca)                                                                    | Site pour les élèves de la technique de l'informatique                               |
 | [Raoul](https://raoul.kerzo.ca)                                                                                                 | Outil de rétroaction assisté par ordinateur                                          |
 | [Calendrier scolaires](https://www.cegepvicto.ca/eleves-actuels/services-eleve/calendriers-scolaires/)                          | Calendriers scolaires du Cégep de Victoriaville                                      |
 | [PIEA](https://www.cegepvicto.ca/wp-content/uploads/2023/04/Politique-institutionnelle-devaluation-des-apprentissages-PIEA.pdf) | Politique institutionnelle d'évaluation des apprentissages du Cégep de Victoriaville |
@@ -29,13 +29,14 @@
 
 ## Sites de notes de cours
 
-| Site                                               | Description                                             |
-| -------------------------------------------------- | ------------------------------------------------------- |
-| [Support Technique](https://support.kerzo.ca)      | Site de notes de cours pour le support technique        |
-| [Bases de données 1](https://bd1.kerzo.ca)         | Site de notes de cours pour les bases de données 1      |
-| [Piratage Éthique](https://piratage.kerzo.ca)      | Site de notes de cours pour le piratage éthique         |
-| [Développement Web 3](https://web3.kerzo.ca)       | Site de notes de cours pour le développement Web 3      |
-| [Technologies émergentes](https://techno.kerzo.ca) | Site de notes de cours pour les technologies émergentes |
+| Site                                                  | Description                                             |
+| ----------------------------------------------------- | ------------------------------------------------------- |
+| [Support Technique](https://support.profinfo.ca)      | Site de notes de cours pour le support technique        |
+| [Bases de données 1](https://bd1.profinfo.ca)         | Site de notes de cours pour les bases de données 1      |
+| [Bases de données 2](https://bd2.profinfo.ca)         | Site de notes de cours pour les bases de données 2      |
+| [Piratage Éthique](https://piratage.profinfo.ca)      | Site de notes de cours pour le piratage éthique         |
+| [Développement Web 3](https://web3.profinfo.ca)       | Site de notes de cours pour le développement Web 3      |
+| [Technologies émergentes](https://techno.profinfo.ca) | Site de notes de cours pour les technologies émergentes |
 
 ## Programmation
 
@@ -92,3 +93,10 @@
 | Site                                                                          | Description        |
 | ----------------------------------------------------------------------------- | ------------------ |
 | [Instagram de Fanta](https://www.instagram.com/acatnamedfanta/p/CK_pEZdplxj/) | Instagram de Fanta |
+
+## Registres de domaines
+
+| Site                                          | Description         |
+| --------------------------------------------- | ------------------- |
+| [Squarespace](https://login.squarespace.com/) | Registre de domaine |
+| [IONOS](https://my.ionos.ca/)                 | Registre de domaine |

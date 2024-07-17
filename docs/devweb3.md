@@ -4,7 +4,7 @@
 
 | Site                                                                                 | Description                                   |
 | ------------------------------------------------------------------------------------ | --------------------------------------------- |
-| [Développement Web 3](https://web3.kerzo.ca)                                         | Site de notes de cours de Développement Web 3 |
+| [Développement Web 3](https://web3.profinfo.ca)                                      | Site de notes de cours de Développement Web 3 |
 | [Source du site de Développement Web 3](https://github.com/jaixan/developpementweb3) | Source du site de Développement Web 3         |
 
 ## Manuels

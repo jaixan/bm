@@ -4,7 +4,7 @@
 
 | Site                                                                     | Description                                 |
 | ------------------------------------------------------------------------ | ------------------------------------------- |
-| [Support Technique](https://support.kerzo.ca)                            | Site de notes de cours de Support Technique |
+| [Support Technique](https://support.profinfo.ca)                         | Site de notes de cours de Support Technique |
 | [Source du site de Support Technique](https://github.com/jaixan/support) | Source du site de Support Technique         |
 
 ## Outils

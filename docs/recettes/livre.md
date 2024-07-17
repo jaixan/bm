@@ -38,6 +38,7 @@
 - [Carrés aux dattes](carres-aux-dattes.md)
 - [Croustade aux pommes](croustade-pommes.md)
 - [Gâteau Graham](gateau-graham.md)
+- [Gaufres](gaufres.md)
 - [Grand-père dans le sirop](grand-pere.md)
 - [Pain aux bananes](pain-bananes.md)
 - [Renversé aux fraises](renverse-aux-fraises.md)

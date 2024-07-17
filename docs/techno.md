@@ -4,7 +4,7 @@
 
 | Site                                                                          | Description                                       |
 | ----------------------------------------------------------------------------- | ------------------------------------------------- |
-| [Technologies émergentes](https://techno.kerzo.ca)                            | Site de notes de cours de Technologies émergentes |
+| [Technologies émergentes](https://techno.profinfo.ca)                         | Site de notes de cours de Technologies émergentes |
 | [Source du site de Technologies émergentes](https://github.com/jaixan/techno) | Source du site de Technologies émergentes         |
 
 # Nouvelles

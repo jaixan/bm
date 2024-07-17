@@ -2,6 +2,6 @@
 
 ## Sites Web
 
-| Site                                         | Description          |
-| -------------------------------------------- | -------------------- |
-| [Site du cours de BD2](https://bd2.kerzo.ca) | Site du cours de BD2 |
+| Site                                            | Description          |
+| ----------------------------------------------- | -------------------- |
+| [Site du cours de BD2](https://bd2.profinfo.ca) | Site du cours de BD2 |

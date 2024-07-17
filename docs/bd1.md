@@ -4,7 +4,7 @@
 
 | Site                                                                               | Description                                  |
 | ---------------------------------------------------------------------------------- | -------------------------------------------- |
-| [Bases de données 1](https://bd1.kerzo.ca)                                         | Site de notes de cours de Bases de données 1 |
+| [Bases de données 1](https://bd1.profinfo.ca)                                      | Site de notes de cours de Bases de données 1 |
 | [Source du site de Bases de données 1](https://github.com/jaixan/bd1)              | Source du site de Bases de données 1         |
 | [Source des évaluations de Bases de données 1](https://github.com/jaixan/bd1_prof) | Source des évaluations de Bases de données 1 |
 
