@@ -12,6 +12,7 @@ nav:
       - 'Support technique': support.md
       - 'Technologies émergentes': techno.md
   - 'Pédagogie': pedagogie.md
+  - 'Karine': karine.md
   - 'Humour': humour.md
   - 'Maison': maison.md
   - 'Outils':
@@ -20,7 +21,10 @@ nav:
       - 'Git': git.md
       - 'Langues': langues.md
       - 'Développement': developpement.md
+      - 'Mac': mac.md
+      - 'Bâtir mac': buildmac.md
   - 'Liste de lecture': readinglist.md
+  - 'Retraite': retraite.md
   - 'Recettes':
       - 'Livre de recettes': recettes/livre.md
       - 'Anglais':
