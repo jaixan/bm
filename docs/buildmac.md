@@ -81,6 +81,12 @@ brew install --cask reminders-menubar
 brew install wget
 ```
 
+## MR
+
+```bash
+brew install mr
+```
+
 ## UTM
 
 [Download UTM](https://docs.getutm.app/installation/macos/)
@@ -110,8 +116,6 @@ brew install sebglazebrook/aliases/aliases
 Fichier .aliases
 
 ```bash
-venv:
-  command: source venv/bin/activate
 gh-deploy:
   command: mkdocs gh-deploy
 
@@ -135,7 +139,15 @@ flush-dns:
   command: sudo dscacheutil -flushcache; sudo killall -HUP mDNSResponder
 ```
 
+Faire le reload des aliases
+
+```bash
+aliases rehash
+```
+
 ## Configure terminal
+
+Fichier .zshrc
 
 ```bash
 PROMPT="%1~ # "
@@ -146,6 +158,12 @@ eval "$(aliases init --global)"
 
 # Retroaction
 alias retroaction='/Users/etiennerivard/projets/retroaction/venv/bin/python3.13 /Users/etiennerivard/projets/retroaction/retroaction.py'
+
+# setting current virtualenv
+ve () {
+  source venv/bin/activate
+  echo "done!"
+}
 ```
 
 ## Snagit
