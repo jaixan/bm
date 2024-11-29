@@ -87,6 +87,12 @@ brew install wget
 brew install mr
 ```
 
+## NCDU
+
+```bash
+brew install ncdu
+```
+
 ## UTM
 
 [Download UTM](https://docs.getutm.app/installation/macos/)
