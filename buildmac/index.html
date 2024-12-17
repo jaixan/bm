@@ -1085,6 +1085,24 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#mr" class="md-nav__link">
+    <span class="md-ellipsis">
+      MR
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ncdu" class="md-nav__link">
+    <span class="md-ellipsis">
+      NCDU
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#utm" class="md-nav__link">
     <span class="md-ellipsis">
       UTM
@@ -2267,6 +2285,12 @@ brew<span class="w"> </span>install<span class="w"> </span>mongodb-community
 <h2 id="wget">WGet</h2>
 <div class="highlight"><pre><span></span><code>brew<span class="w"> </span>install<span class="w"> </span>wget
 </code></pre></div>
+<h2 id="mr">MR</h2>
+<div class="highlight"><pre><span></span><code>brew<span class="w"> </span>install<span class="w"> </span>mr
+</code></pre></div>
+<h2 id="ncdu">NCDU</h2>
+<div class="highlight"><pre><span></span><code>brew<span class="w"> </span>install<span class="w"> </span>ncdu
+</code></pre></div>
 <h2 id="utm">UTM</h2>
 <p><a href="https://docs.getutm.app/installation/macos/">Download UTM</a></p>
 <h2 id="step-two">Step Two</h2>
@@ -2281,9 +2305,7 @@ brew<span class="w"> </span>install<span class="w"> </span>mongodb-community
 <div class="highlight"><pre><span></span><code>brew<span class="w"> </span>install<span class="w"> </span>sebglazebrook/aliases/aliases
 </code></pre></div>
 <p>Fichier .aliases</p>
-<div class="highlight"><pre><span></span><code>venv:
-<span class="w">  </span>command:<span class="w"> </span><span class="nb">source</span><span class="w"> </span>venv/bin/activate
-gh-deploy:
+<div class="highlight"><pre><span></span><code>gh-deploy:
 <span class="w">  </span>command:<span class="w"> </span>mkdocs<span class="w"> </span>gh-deploy
 
 <span class="c1"># Pour accélérer TimeMachine</span>
@@ -2305,7 +2327,11 @@ stop-tunnel:
 flush-dns:
 <span class="w">  </span>command:<span class="w"> </span>sudo<span class="w"> </span>dscacheutil<span class="w"> </span>-flushcache<span class="p">;</span><span class="w"> </span>sudo<span class="w"> </span>killall<span class="w"> </span>-HUP<span class="w"> </span>mDNSResponder
 </code></pre></div>
+<p>Faire le reload des aliases</p>
+<div class="highlight"><pre><span></span><code>aliases<span class="w"> </span>rehash
+</code></pre></div>
 <h2 id="configure-terminal">Configure terminal</h2>
+<p>Fichier .zshrc</p>
 <div class="highlight"><pre><span></span><code><span class="nv">PROMPT</span><span class="o">=</span><span class="s2">&quot;%1~ # &quot;</span>
 <span class="nv">PATH</span><span class="o">=</span><span class="s2">&quot;/opt/homebrew/opt/node@20/bin:/Users/etiennerivard/.local/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Users/etiennerivard/projets/retroaction:</span><span class="si">${</span><span class="nv">PATH</span><span class="si">}</span><span class="s2">&quot;</span>
 
@@ -2314,6 +2340,12 @@ flush-dns:
 
 <span class="c1"># Retroaction</span>
 <span class="nb">alias</span><span class="w"> </span><span class="nv">retroaction</span><span class="o">=</span><span class="s1">&#39;/Users/etiennerivard/projets/retroaction/venv/bin/python3.13 /Users/etiennerivard/projets/retroaction/retroaction.py&#39;</span>
+
+<span class="c1"># setting current virtualenv</span>
+ve<span class="w"> </span><span class="o">()</span><span class="w"> </span><span class="o">{</span>
+<span class="w">  </span><span class="nb">source</span><span class="w"> </span>venv/bin/activate
+<span class="w">  </span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;done!&quot;</span>
+<span class="o">}</span>
 </code></pre></div>
 <h2 id="snagit">Snagit</h2>
 <p><a href="https://www.techsmith.com/download/oldversions">Snagit - Download</a></p>
