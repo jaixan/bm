@@ -58,6 +58,7 @@
 | [ChatGPT API Usage](https://platform.openai.com/usage) | Utilisation de l'API de ChatGPT |
 | [Recraft](https://app.recraft.ai/)                     | Création d'icônes avec IA       |
 | [MyMemo](https://app.mymemo.ai/home)                   | Création de mémos avec IA       |
+| [DeepSeek](https://chat.deepseek.com)                  | Agent de conversation avec IA   |
 
 ## Santé
 
