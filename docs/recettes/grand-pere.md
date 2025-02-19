@@ -18,8 +18,8 @@
 # Instructions
 
 1. Mélanger le tout en pâte lisse.
-2. Porter à ébullition le sirop.
+2. Porter le mélange de sirop et d'eau à ébullition.
 
 3. Déposer par cuillère la pâte dans le sirop.
 
-4. Couvrir et laisser cuire 10 minutes.
+4. Mettre le feu à moyen-doux, couvrir et laisser cuire 10 minutes.

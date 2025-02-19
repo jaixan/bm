@@ -3,7 +3,7 @@
 ## Ingrédients
 
 - 400 grammes de pois chiches pré-cuits
-- 200 millilitres de crème de coco
+- 200 ml de crème de coco
 - 1 oignon
 - 2 tomates
 - 1 c. à café d'huile d'olive
@@ -35,4 +35,4 @@
 
 10. Quand c'est cuit, ajoutez de la ciboulette ciselée ou de la coriandre fraîche.
 
-11. Servez ce plat végétarien avec un bol de riz blanc thaï ou du riz complet cuit à la vapeur.
+11. Servez ce plat avec un bol de riz blanc.

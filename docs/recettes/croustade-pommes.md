@@ -19,7 +19,7 @@
 
 ## Instructions
 
-1. Placer la grille dans le bas du four. Préchauffer le four à 180 °C (350 °F).
+1. Placer la grille dans le bas du four. Préchauffer le four à 350 °F.
 
 ### Croustillant
 

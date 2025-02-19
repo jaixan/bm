@@ -10,7 +10,7 @@
 
 **Instructions**
 
-1. Préchauffez le four à 450°F. Placez une grille sur une étagère inférieure. Le dessus des popovers entièrement levés doit être environ à mi-hauteur du four. Ce que vous ne voulez pas, c'est que les dessus des popovers soient trop proches du haut du four, car ils brûleront.
+1. Préchauffez le four à 450°F. Placez une grille au plus b as du four. Le dessus des popovers entièrement levés doit être environ à mi-hauteur du four. Ce que vous ne voulez pas, c'est que les dessus des popovers soient trop proches du haut du four, car ils brûleront.
 
 2. Utilisez un moule à muffins en métal standard de 12 tasses, dont les tasses mesurent environ 2 1/2" de large sur 1 1/2" de profondeur. Graissez bien le moule. Assurez-vous que le four est à la bonne température avant de commencer à faire la pâte à popover.
 
@@ -24,7 +24,7 @@
 
 7. Assurez-vous absolument que votre four est à 450°F. Placez le moule sur une étagère inférieure du four.
 
-8. Faites cuire les popovers pendant 20 minutes sans ouvrir la porte du four. Réduisez la température à 350°F (encore une fois sans ouvrir la porte), et faites cuire pendant 10 à 15 minutes supplémentaires, jusqu'à ce qu'ils soient d'un brun doré profond. Si les popovers semblent brunir trop rapidement, placez une grille de four tout en haut du four, et mettez une plaque à biscuits dessus, pour protéger les dessus des popovers de la chaleur directe.
+8. Faites cuire les popovers pendant 20 minutes **sans ouvrir la porte du four**. Réduisez la température à 350°F (encore une fois sans ouvrir la porte), et faites cuire pendant 10 à 15 minutes supplémentaires, jusqu'à ce qu'ils soient d'un brun doré profond. Si les popovers semblent brunir trop rapidement, placez une grille de four tout en haut du four, et mettez une plaque à biscuits dessus, pour protéger les dessus des popovers de la chaleur directe.
 
 9. Si vous prévoyez de servir les popovers immédiatement, retirez-les du four et percez le haut de chacun avec la pointe d'un couteau, pour libérer la vapeur et aider à prévenir le ramollissement. Sortez-les du moule et servez.
 

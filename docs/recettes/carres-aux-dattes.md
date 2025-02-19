@@ -24,6 +24,6 @@
 1. Faire fondre 1 tasse de gras.
 2. Ajouter rapidement et sans brasser les autres ingrédients
 3. Maintenant brasser le tout pour forme une boule.
-4. Pour mettre dans le fond du plat, séparer la pâte comme en 2 parties égales; en mettre une partie.
+4. Pour mettre dans le fond du plat, séparer la pâte en 2 parties égales; en mettre une partie.
 5. L’autre partie, l’étendre par galettes, ça va être plus facile.
 6. Faire cuire 55 min à 350ºF
