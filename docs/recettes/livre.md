@@ -30,6 +30,7 @@
 
 - [Beans dans le sirop](beans.md)
 - [Bouilli de porc](bouilli-de-porc.md)
+- [Crêpes](crepes.md)
 - [Eggs Newport](eggs-newport.md)
 - [Pain doré](pain-dore.md)
 - [Soupe pomme de terre et cheddar](soupe-patates-cheddar.md)
