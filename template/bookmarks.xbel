@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :10: for Floccus bookmark sync browser extension -->
+
+<folder id="2">
+  <title>Cégep</title>
+  <bookmark href="https://www.cegepvicto.ca/connexion/" id="3">
+    <title>Portail Omnivox</title>
+  </bookmark>
+  <bookmark href="http://valisevirtuelle.cegepvicto.ca/" id="4">
+    <title>Valise Virtuelle</title>
+  </bookmark>
+  <bookmark href="https://cegepvicto.on.spiceworks.com/tickets/open/1?sort=updated_at-desc" id="5">
+    <title>Open Tickets - Spiceworks Help Desk</title>
+  </bookmark>
+  <bookmark href="https://cegepvicto.sharepoint.com/sites/ressources-humaines" id="6">
+    <title>Ressources humaines - Home</title>
+  </bookmark>
+  <bookmark href="https://www.cegepvicto.ca/programme/techniques-informatique/" id="7">
+    <title>Programme de la technique de l&apos;informatique</title>
+  </bookmark>
+  <bookmark href="https://techinfo.profinfo.ca/" id="8">
+    <title>Techniques de l&apos;informatique</title>
+  </bookmark>
+  <bookmark href="https://horaire.profinfo.ca/" id="9">
+    <title>Générateur horaire</title>
+  </bookmark>
+  <bookmark href="https://puma.cs.tum.edu/" id="10">
+    <title>Visualisateur .ical</title>
+  </bookmark>
+  <bookmark href="https://www.cegepvicto.ca/eleves-actuels/services-eleve/calendriers-scolaires/" id="11">
+    <title>Calendrier scolaires</title>
+  </bookmark>
+  <bookmark href="https://www.cegepvicto.ca/wp-content/uploads/2023/04/Politique-institutionnelle-devaluation-des-apprentissages-PIEA.pdf" id="12">
+    <title>PIEA</title>
+  </bookmark>
+  <bookmark href="https://fec.lacsq.org/calculateur-ci/" id="8">
+    <title>Calculateur CI - Fédération de l’enseignement collégial (FEC-CSQ)</title>
+  </bookmark>
+</folder>
+<folder id="20">
+  <title>Notes de cours</title>
+  <bookmark href="https://support.profinfo.ca/" id="21">
+    <title>Support Technique</title>
+  </bookmark>
+  <bookmark href="https://bd1.profinfo.ca/" id="22">
+    <title>Bases de données 1</title>
+  </bookmark>
+  <bookmark href="https://bd2.profinfo.ca/" id="23">
+    <title>Bases de données 2</title>
+  </bookmark>
+  <bookmark href="https://piratage.profinfo.ca/" id="24">
+    <title>Piratage Éthique</title>
+  </bookmark>
+  <bookmark href="https://web3.profinfo.ca/" id="25">
+    <title>Développement Web 3</title>
+  </bookmark>
+  <bookmark href="https://techno.profinfo.ca/" id="26">
+    <title>Technologies émergentes</title>
+  </bookmark>
+</folder>
+<folder id="30">
+  <title>Stages</title>
+  <bookmark href="https://cegep-de-victo.odoo.com/" id="31">
+    <title>Odoo</title>
+  </bookmark>
+  <bookmark href="https://www.pdftron.com/pdf-tools/pdfa-converter/" id="32">
+    <title>PDF to PDF-A</title>
+  </bookmark>
+  <bookmark href="https://pratiquesrh.com/fr/accueillez-un-stagiaire" id="33">
+    <title>Accueillez un stagiaire</title>
+  </bookmark>
+  <bookmark href="https://www.cnesst.gouv.qc.ca/fr/campagnes-sensibilisation-promotion/poser-questions-ca-ne-fait-pas-mal?utm_campaign=CSPQ%7CCNESST%7CBrand%7CJeunesse%7CQ2%7C2022%7CFR/EN%7C%7C1016334%7C5698-IU-P201&amp;utm_medium=Social&amp;utm_source=LinkedIn&amp;utm_content=1920x1080-fille-fr" id="34">
+    <title>Cnesst Sensibilisation jeunesse</title>
+  </bookmark>
+  <bookmark href="https://www.carrieres.gouv.qc.ca/stages-dans-la-fonction-publique" id="35">
+    <title>Offres de stage dans la fonction publique QC</title>
+  </bookmark>
+</folder>
+<folder id="40">
+  <title>IA</title>
+  <bookmark href="https://www.perplexity.ai/" id="41">
+    <title>Perplexity</title>
+  </bookmark>
+  <bookmark href="https://chat.openai.com/" id="42">
+    <title>ChatGPT</title>
+  </bookmark>
+  <bookmark href="https://platform.openai.com/usage" id="43">
+    <title>ChatGPT API Usage</title>
+  </bookmark>
+  <bookmark href="https://app.recraft.ai/" id="44">
+    <title>Recraft</title>
+  </bookmark>
+  <bookmark href="https://app.mymemo.ai/home" id="45">
+    <title>MyMemo</title>
+  </bookmark>
+  <bookmark href="https://chat.deepseek.com/" id="46">
+    <title>DeepSeek</title>
+  </bookmark>
+  <bookmark href="https://www.recraft.ai/projects" id="7">
+    <title>Recraft</title>
+  </bookmark>
+</folder>
+<folder id="40">
+  <title>Veille</title>
+  <bookmark href="https://tldr.tech/" id="41">
+    <title>TLDR</title>
+  </bookmark>
+  <bookmark href="https://news.ycombinator.com/" id="42">
+    <title>Hacker News</title>
+  </bookmark>
+  <bookmark href="https://www.reddit.com/" id="43">
+    <title>Reddit</title>
+  </bookmark>
+</folder>
+<folder id="50">
+  <title>Impôts</title>
+  <bookmark href="https://www.revenuquebec.ca/fr/" id="51">
+    <title>Revenu Québec</title>
+  </bookmark>
+  <bookmark href="https://ca.talent.com/fr/tax-calculator" id="52">
+    <title>Calcul retenue impôt sur salaire</title>
+  </bookmark>
+  <bookmark href="https://www.wealthsimple.com/en-ca/tax" id="53">
+    <title>WealthSimple Tax</title>
+  </bookmark>
+  <bookmark href="https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-particuliers/dossier-particuliers.html" id="54">
+    <title>Mon dossier particulier (ARC)</title>
+  </bookmark>
+  <bookmark href="https://www.consumer.equifax.ca/personal/" id="55">
+    <title>Equifax</title>
+  </bookmark>
+</folder>
+<folder id="60">
+  <title>Domaines</title>
+  <bookmark href="https://login.squarespace.com/" id="61">
+    <title>Squarespace</title>
+  </bookmark>
+  <bookmark href="https://my.ionos.ca/" id="62">
+    <title>IONOS</title>
+  </bookmark>
+</folder>
+<folder id="70">
+  <title>Formations</title>
+  <bookmark href="https://academy.zerotomastery.io/" id="71">
+    <title>Zero to Mastery</title>
+  </bookmark>
+  <bookmark href="https://passport.zerotomastery.io/user/5faa945d80818b7a62eea77cc6c6b0ac" id="72">
+    <title>ZTM Passport</title>
+  </bookmark>
+  <bookmark href="https://leetcode.com/" id="73">
+    <title>LeetCode</title>
+  </bookmark>
+</folder>
+<folder id="80">
+  <title>Perso</title>
+  <bookmark href="https://www.instagram.com/acatnamedfanta/p/CK_pEZdplxj/" id="81">
+    <title>Instagram de Fanta</title>
+  </bookmark>
+</folder>
+<bookmark href="https://bm.kerzo.ca/" id="1">
+  <title>Etienne&apos;s Bookmarks</title>
+</bookmark>
+<folder id="9">
+  <title>SysAdmin</title>
+  <bookmark href="https://crontab.guru/" id="10">
+    <title>Crontab.guru - The cron schedule expression generator</title>
+  </bookmark>
+</folder>
+</xbel>

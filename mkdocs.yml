@@ -3,6 +3,7 @@ site_url: https://bm.kerzo.ca/
 
 nav:
   - 'Accueil': index.md
+  - 'Bookmarks': bookmarks.md
   - 'Horaire': horaire.md
   - 'Cours':
       - 'Bases de données 1': bd1.md
