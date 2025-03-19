@@ -42,6 +42,8 @@
 - [MyMemo](https://app.mymemo.ai/home)
 - [DeepSeek](https://chat.deepseek.com/)
 - [Recraft](https://www.recraft.ai/projects)
+- [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
+- [Anthropic Console](https://console.anthropic.com/settings/billing)
 
 ## Veille
 
