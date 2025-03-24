@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :12: for Floccus bookmark sync browser extension -->
+<!--- highestId :15: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Cégep</title>
@@ -37,6 +37,9 @@
   </bookmark>
   <bookmark href="https://fec.lacsq.org/calculateur-ci/" id="8">
     <title>Calculateur CI - Fédération de l’enseignement collégial (FEC-CSQ)</title>
+  </bookmark>
+  <bookmark href="https://mermaid.js.org/intro/" id="13">
+    <title>Mermaid</title>
   </bookmark>
 </folder>
 <folder id="20">
@@ -172,6 +175,12 @@
   <title>SysAdmin</title>
   <bookmark href="https://crontab.guru/" id="10">
     <title>Crontab.guru - The cron schedule expression generator</title>
+  </bookmark>
+</folder>
+<folder id="14">
+  <title>Support technique</title>
+  <bookmark href="https://www.lostmypass.com/file-types/ms-excel/" id="15">
+    <title>Excel Password Recovery Online — Unprotect Excel Workbook/Sheet Without a Password</title>
   </bookmark>
 </folder>
 </xbel>

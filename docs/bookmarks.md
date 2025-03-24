@@ -15,6 +15,7 @@
 - [Calendrier scolaires](https://www.cegepvicto.ca/eleves-actuels/services-eleve/calendriers-scolaires/)
 - [PIEA](https://www.cegepvicto.ca/wp-content/uploads/2023/04/Politique-institutionnelle-devaluation-des-apprentissages-PIEA.pdf)
 - [Calculateur CI - Fédération de l’enseignement collégial (FEC-CSQ)](https://fec.lacsq.org/calculateur-ci/)
+- [Mermaid](https://mermaid.js.org/intro/)
 
 ## Notes de cours
 
@@ -77,3 +78,7 @@
 ## SysAdmin
 
 - [Crontab.guru - The cron schedule expression generator](https://crontab.guru/)
+
+## Support technique
+
+- [Excel Password Recovery Online — Unprotect Excel Workbook/Sheet Without a Password](https://www.lostmypass.com/file-types/ms-excel/)
