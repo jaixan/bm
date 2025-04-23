@@ -16,6 +16,7 @@
 - [PIEA](https://www.cegepvicto.ca/wp-content/uploads/2023/04/Politique-institutionnelle-devaluation-des-apprentissages-PIEA.pdf)
 - [Calculateur CI - Fédération de l’enseignement collégial (FEC-CSQ)](https://fec.lacsq.org/calculateur-ci/)
 - [Mermaid](https://mermaid.js.org/intro/)
+- [Pricing | Raiseaticket - 100% Free cloud helpdesk SaaS](https://raiseaticket.com/pricing)
 
 ## Notes de cours
 
