@@ -85,36 +85,6 @@
   </bookmark>
 </folder>
 <folder id="40">
-  <title>IA</title>
-  <bookmark href="https://www.perplexity.ai/" id="41">
-    <title>Perplexity</title>
-  </bookmark>
-  <bookmark href="https://chat.openai.com/" id="42">
-    <title>ChatGPT</title>
-  </bookmark>
-  <bookmark href="https://platform.openai.com/usage" id="43">
-    <title>ChatGPT API Usage</title>
-  </bookmark>
-  <bookmark href="https://app.recraft.ai/" id="44">
-    <title>Recraft</title>
-  </bookmark>
-  <bookmark href="https://app.mymemo.ai/home" id="45">
-    <title>MyMemo</title>
-  </bookmark>
-  <bookmark href="https://chat.deepseek.com/" id="46">
-    <title>DeepSeek</title>
-  </bookmark>
-  <bookmark href="https://www.recraft.ai/projects" id="7">
-    <title>Recraft</title>
-  </bookmark>
-  <bookmark href="https://aistudio.google.com/prompts/new_chat" id="11">
-    <title>Google AI Studio</title>
-  </bookmark>
-  <bookmark href="https://console.anthropic.com/settings/billing" id="12">
-    <title>Anthropic Console</title>
-  </bookmark>
-</folder>
-<folder id="40">
   <title>Veille</title>
   <bookmark href="https://tldr.tech/" id="41">
     <title>TLDR</title>
@@ -190,6 +160,36 @@
   <title>Gouvernement</title>
   <bookmark href="https://www.corail.gouv.qc.ca/abonnement/docs/accueil.do" id="17">
     <title>CORAIL - Accueil (Conventions collectives)</title>
+  </bookmark>
+</folder>
+<folder id="40">
+  <title>Veille</title>
+  <bookmark href="https://tldr.tech/" id="41">
+    <title>TLDR</title>
+  </bookmark>
+  <bookmark href="https://news.ycombinator.com/" id="42">
+    <title>Hacker News</title>
+  </bookmark>
+  <bookmark href="https://www.reddit.com/" id="43">
+    <title>Reddit</title>
+  </bookmark>
+  <bookmark href="https://app.recraft.ai/" id="44">
+    <title>Recraft</title>
+  </bookmark>
+  <bookmark href="https://app.mymemo.ai/home" id="45">
+    <title>MyMemo</title>
+  </bookmark>
+  <bookmark href="https://chat.deepseek.com/" id="46">
+    <title>DeepSeek</title>
+  </bookmark>
+  <bookmark href="https://www.recraft.ai/projects" id="7">
+    <title>Recraft</title>
+  </bookmark>
+  <bookmark href="https://aistudio.google.com/prompts/new_chat" id="11">
+    <title>Google AI Studio</title>
+  </bookmark>
+  <bookmark href="https://console.anthropic.com/settings/billing" id="12">
+    <title>Anthropic Console</title>
   </bookmark>
 </folder>
 </xbel>

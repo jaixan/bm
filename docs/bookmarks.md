@@ -35,18 +35,6 @@
 - [Cnesst Sensibilisation jeunesse](https://www.cnesst.gouv.qc.ca/fr/campagnes-sensibilisation-promotion/poser-questions-ca-ne-fait-pas-mal?utm_campaign=CSPQ%7CCNESST%7CBrand%7CJeunesse%7CQ2%7C2022%7CFR/EN%7C%7C1016334%7C5698-IU-P201&utm_medium=Social&utm_source=LinkedIn&utm_content=1920x1080-fille-fr)
 - [Offres de stage dans la fonction publique QC](https://www.carrieres.gouv.qc.ca/stages-dans-la-fonction-publique)
 
-## IA
-
-- [Perplexity](https://www.perplexity.ai/)
-- [ChatGPT](https://chat.openai.com/)
-- [ChatGPT API Usage](https://platform.openai.com/usage)
-- [Recraft](https://app.recraft.ai/)
-- [MyMemo](https://app.mymemo.ai/home)
-- [DeepSeek](https://chat.deepseek.com/)
-- [Recraft](https://www.recraft.ai/projects)
-- [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
-- [Anthropic Console](https://console.anthropic.com/settings/billing)
-
 ## Veille
 
 - [TLDR](https://tldr.tech/)
@@ -87,3 +75,15 @@
 ## Gouvernement
 
 - [CORAIL - Accueil (Conventions collectives)](https://www.corail.gouv.qc.ca/abonnement/docs/accueil.do)
+
+## Veille
+
+- [TLDR](https://tldr.tech/)
+- [Hacker News](https://news.ycombinator.com/)
+- [Reddit](https://www.reddit.com/)
+- [Recraft](https://app.recraft.ai/)
+- [MyMemo](https://app.mymemo.ai/home)
+- [DeepSeek](https://chat.deepseek.com/)
+- [Recraft](https://www.recraft.ai/projects)
+- [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
+- [Anthropic Console](https://console.anthropic.com/settings/billing)
