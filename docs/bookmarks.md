@@ -17,6 +17,12 @@
 - [Calculateur CI - Fédération de l’enseignement collégial (FEC-CSQ)](https://fec.lacsq.org/calculateur-ci/)
 - [Mermaid](https://mermaid.js.org/intro/)
 - [Pricing | Raiseaticket - 100% Free cloud helpdesk SaaS](https://raiseaticket.com/pricing)
+- [Imprimer ses examens au local E203](https://192.168.100.47/stat/welcome.php)
+- [Crontab.guru - The cron schedule expression generator](https://crontab.guru/)
+- [Recraft](https://www.recraft.ai/projects)
+- [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
+- [Anthropic Console](https://console.anthropic.com/settings/billing)
+- [Réseau CyberQuébec](https://vpn.cyberquebec.org/remote/login?lang=en)
 
 ## Notes de cours
 
@@ -40,6 +46,7 @@
 - [TLDR](https://tldr.tech/)
 - [Hacker News](https://news.ycombinator.com/)
 - [Reddit](https://www.reddit.com/)
+- [TLDR](https://tldr.tech/)
 
 ## Impôts
 
@@ -66,7 +73,6 @@
 
 ## SysAdmin
 
-- [Crontab.guru - The cron schedule expression generator](https://crontab.guru/)
 
 ## Support technique
 
@@ -76,14 +82,13 @@
 
 - [CORAIL - Accueil (Conventions collectives)](https://www.corail.gouv.qc.ca/abonnement/docs/accueil.do)
 
-## Veille
+## IA
 
-- [TLDR](https://tldr.tech/)
-- [Hacker News](https://news.ycombinator.com/)
-- [Reddit](https://www.reddit.com/)
 - [Recraft](https://app.recraft.ai/)
 - [MyMemo](https://app.mymemo.ai/home)
 - [DeepSeek](https://chat.deepseek.com/)
-- [Recraft](https://www.recraft.ai/projects)
-- [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
-- [Anthropic Console](https://console.anthropic.com/settings/billing)
+- [Perplexity](https://www.perplexity.ai/)
+- [ChatGPT](https://chat.openai.com/)
+- [ChatGPT API Usage](https://platform.openai.com/usage)
+- [Hacker News](https://news.ycombinator.com/)
+- [Reddit](https://www.reddit.com/)

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :18: for Floccus bookmark sync browser extension -->
+<!--- highestId :26: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Cégep</title>
@@ -43,6 +43,24 @@
   </bookmark>
   <bookmark href="https://raiseaticket.com/pricing" id="18">
     <title>Pricing | Raiseaticket - 100% Free cloud helpdesk SaaS</title>
+  </bookmark>
+  <bookmark href="https://192.168.100.47/stat/welcome.php" id="19">
+    <title>Imprimer ses examens au local E203</title>
+  </bookmark>
+  <bookmark href="https://crontab.guru/" id="10">
+    <title>Crontab.guru - The cron schedule expression generator</title>
+  </bookmark>
+  <bookmark href="https://www.recraft.ai/projects" id="7">
+    <title>Recraft</title>
+  </bookmark>
+  <bookmark href="https://aistudio.google.com/prompts/new_chat" id="11">
+    <title>Google AI Studio</title>
+  </bookmark>
+  <bookmark href="https://console.anthropic.com/settings/billing" id="12">
+    <title>Anthropic Console</title>
+  </bookmark>
+  <bookmark href="https://vpn.cyberquebec.org/remote/login?lang=en" id="23">
+    <title>Réseau CyberQuébec</title>
   </bookmark>
 </folder>
 <folder id="20">
@@ -95,6 +113,9 @@
   <bookmark href="https://www.reddit.com/" id="43">
     <title>Reddit</title>
   </bookmark>
+  <bookmark href="https://tldr.tech/" id="24">
+    <title>TLDR</title>
+  </bookmark>
 </folder>
 <folder id="50">
   <title>Impôts</title>
@@ -146,9 +167,6 @@
 </bookmark>
 <folder id="9">
   <title>SysAdmin</title>
-  <bookmark href="https://crontab.guru/" id="10">
-    <title>Crontab.guru - The cron schedule expression generator</title>
-  </bookmark>
 </folder>
 <folder id="14">
   <title>Support technique</title>
@@ -163,16 +181,7 @@
   </bookmark>
 </folder>
 <folder id="40">
-  <title>Veille</title>
-  <bookmark href="https://tldr.tech/" id="41">
-    <title>TLDR</title>
-  </bookmark>
-  <bookmark href="https://news.ycombinator.com/" id="42">
-    <title>Hacker News</title>
-  </bookmark>
-  <bookmark href="https://www.reddit.com/" id="43">
-    <title>Reddit</title>
-  </bookmark>
+  <title>IA</title>
   <bookmark href="https://app.recraft.ai/" id="44">
     <title>Recraft</title>
   </bookmark>
@@ -182,14 +191,20 @@
   <bookmark href="https://chat.deepseek.com/" id="46">
     <title>DeepSeek</title>
   </bookmark>
-  <bookmark href="https://www.recraft.ai/projects" id="7">
-    <title>Recraft</title>
+  <bookmark href="https://www.perplexity.ai/" id="20">
+    <title>Perplexity</title>
   </bookmark>
-  <bookmark href="https://aistudio.google.com/prompts/new_chat" id="11">
-    <title>Google AI Studio</title>
+  <bookmark href="https://chat.openai.com/" id="21">
+    <title>ChatGPT</title>
   </bookmark>
-  <bookmark href="https://console.anthropic.com/settings/billing" id="12">
-    <title>Anthropic Console</title>
+  <bookmark href="https://platform.openai.com/usage" id="22">
+    <title>ChatGPT API Usage</title>
+  </bookmark>
+  <bookmark href="https://news.ycombinator.com/" id="25">
+    <title>Hacker News</title>
+  </bookmark>
+  <bookmark href="https://www.reddit.com/" id="26">
+    <title>Reddit</title>
   </bookmark>
 </folder>
 </xbel>
