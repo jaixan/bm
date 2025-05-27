@@ -4,4 +4,4 @@
 
 | Manuel                                                         | Description                |
 | -------------------------------------------------------------- | -------------------------- |
-| [Air climatisée](ressources/Freidrich-Floating-Air-manual.pdf) | Manuel de l'air climatisée |
+| [Barre de son](ressources/SOLOII-SOUNDBAR_enUS.pdf) | Manuel de la barre de son BOSE Solo II |
