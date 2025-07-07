@@ -81,6 +81,7 @@
 ## Gouvernement
 
 - [CORAIL - Accueil (Conventions collectives)](https://www.corail.gouv.qc.ca/abonnement/docs/accueil.do)
+- [La Vitrine linguistique de l’Office québécois de la langue française](https://vitrinelinguistique.oqlf.gouv.qc.ca/)
 
 ## IA
 
@@ -92,3 +93,8 @@
 - [ChatGPT API Usage](https://platform.openai.com/usage)
 - [Hacker News](https://news.ycombinator.com/)
 - [Reddit](https://www.reddit.com/)
+
+## Youtube
+
+- [Hedra - Génération de podcast](https://www.hedra.com/app/video)
+- [Tableau de bord de la chaîne - YouTube Studio](https://studio.youtube.com/channel/UCQh12k-bthibq-zI0vHMWFw)

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :26: for Floccus bookmark sync browser extension -->
+<!--- highestId :30: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Cégep</title>
@@ -179,6 +179,9 @@
   <bookmark href="https://www.corail.gouv.qc.ca/abonnement/docs/accueil.do" id="17">
     <title>CORAIL - Accueil (Conventions collectives)</title>
   </bookmark>
+  <bookmark href="https://vitrinelinguistique.oqlf.gouv.qc.ca/" id="27">
+    <title>La Vitrine linguistique de l’Office québécois de la langue française</title>
+  </bookmark>
 </folder>
 <folder id="40">
   <title>IA</title>
@@ -205,6 +208,15 @@
   </bookmark>
   <bookmark href="https://www.reddit.com/" id="26">
     <title>Reddit</title>
+  </bookmark>
+</folder>
+<folder id="28">
+  <title>Youtube</title>
+  <bookmark href="https://www.hedra.com/app/video" id="29">
+    <title>Hedra - Génération de podcast</title>
+  </bookmark>
+  <bookmark href="https://studio.youtube.com/channel/UCQh12k-bthibq-zI0vHMWFw" id="30">
+    <title>Tableau de bord de la chaîne - YouTube Studio</title>
   </bookmark>
 </folder>
 </xbel>
