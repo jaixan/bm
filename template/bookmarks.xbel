@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :30: for Floccus bookmark sync browser extension -->
+<!--- highestId :31: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Cégep</title>
@@ -160,6 +160,9 @@
   <title>Perso</title>
   <bookmark href="https://www.instagram.com/acatnamedfanta/p/CK_pEZdplxj/" id="81">
     <title>Instagram de Fanta</title>
+  </bookmark>
+  <bookmark href="https://www.notion.so/2407425d2af4809ba877c649c87c2871?v=2407425d2af4801298f6000ca84d7dbe" id="31">
+    <title>Histoires dodo | Dodo Feed</title>
   </bookmark>
 </folder>
 <bookmark href="https://bm.kerzo.ca/" id="1">

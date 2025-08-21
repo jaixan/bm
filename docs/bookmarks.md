@@ -70,6 +70,7 @@
 ## Perso
 
 - [Instagram de Fanta](https://www.instagram.com/acatnamedfanta/p/CK_pEZdplxj/)
+- [Histoires dodo | Dodo Feed](https://www.notion.so/2407425d2af4809ba877c649c87c2871?v=2407425d2af4801298f6000ca84d7dbe)
 
 ## SysAdmin
 
