@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :31: for Floccus bookmark sync browser extension -->
+<!--- highestId :33: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Cégep</title>
@@ -220,6 +220,12 @@
   </bookmark>
   <bookmark href="https://studio.youtube.com/channel/UCQh12k-bthibq-zI0vHMWFw" id="30">
     <title>Tableau de bord de la chaîne - YouTube Studio</title>
+  </bookmark>
+</folder>
+<folder id="32">
+  <title>Jeux</title>
+  <bookmark href="https://balatrogame.fandom.com/wiki/Balatro_Wiki" id="33">
+    <title>Balatro Wiki | Fandom</title>
   </bookmark>
 </folder>
 </xbel>

@@ -99,3 +99,7 @@
 
 - [Hedra - Génération de podcast](https://www.hedra.com/app/video)
 - [Tableau de bord de la chaîne - YouTube Studio](https://studio.youtube.com/channel/UCQh12k-bthibq-zI0vHMWFw)
+
+## Jeux
+
+- [Balatro Wiki | Fandom](https://balatrogame.fandom.com/wiki/Balatro_Wiki)
