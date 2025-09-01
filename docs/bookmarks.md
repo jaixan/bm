@@ -47,6 +47,7 @@
 - [Hacker News](https://news.ycombinator.com/)
 - [Reddit](https://www.reddit.com/)
 - [TLDR](https://tldr.tech/)
+- [Gandalf | Lakera – Test your AI hacking skills](https://gandalf.lakera.ai/baseline)
 
 ## Impôts
 

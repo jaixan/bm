@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :33: for Floccus bookmark sync browser extension -->
+<!--- highestId :34: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Cégep</title>
@@ -115,6 +115,9 @@
   </bookmark>
   <bookmark href="https://tldr.tech/" id="24">
     <title>TLDR</title>
+  </bookmark>
+  <bookmark href="https://gandalf.lakera.ai/baseline" id="34">
+    <title>Gandalf | Lakera – Test your AI hacking skills</title>
   </bookmark>
 </folder>
 <folder id="50">
