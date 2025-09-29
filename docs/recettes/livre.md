@@ -34,6 +34,7 @@
 - [Eggs Newport](eggs-newport.md)
 - [Pain doré](pain-dore.md)
 - [Soupe pomme de terre et cheddar](soupe-patates-cheddar.md)
+- [Crème de patate](creme-de-patates.md)
 
 # Desserts
 

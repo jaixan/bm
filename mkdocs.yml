@@ -2,64 +2,65 @@ site_name: Etienne's Bookmarks
 site_url: https://bm.kerzo.ca/
 
 nav:
-  - 'Accueil': index.md
-  - 'Bookmarks': bookmarks.md
-  - 'Horaire': horaire.md
-  - 'Cours':
-      - 'Bases de données 1': bd1.md
-      - 'Bases de données 2': bd2.md
-      - 'Développement Web 3': devweb3.md
-      - 'Piratage éthique': piratage.md
-      - 'Support technique': support.md
-      - 'Technologies émergentes': techno.md
-  - 'Pédagogie': pedagogie.md
-  - 'Karine': karine.md
-  - 'Humour': humour.md
-  - 'Maison': maison.md
-  - 'Outils':
-      - 'Documentation': documentation.md
-      - 'Données': donnees.md
-      - 'Git': git.md
-      - 'Langues': langues.md
-      - 'Développement': developpement.md
-      - 'Mac': mac.md
-      - 'Bâtir mac': buildmac.md
-  - 'Liste de lecture': readinglist.md
-  - 'Retraite': retraite.md
-  - 'Estrimont': estrimont.md
-  - 'Recettes':
-      - 'Livre de recettes': recettes/livre.md
-      - 'Anglais':
-          - 'Popover': recettes/popover.md
-      - 'Asiatique':
-          - 'Sauce arachide': recettes/sauce-arachide.md
-      - 'Français':
-          - 'Boeuf bourguignon': recettes/boeuf-bourguignon.md
-          - 'Pommes de terre à la bretonne': recettes/pommes-terre-bretonnes.md
-      - 'Indien':
-          - 'Curry de pois chiches': recettes/curry-pois-chiches.md
-          - 'Naan': recettes/naan.md
-      - 'Italien':
-          - 'Carbonara': recettes/carbonara.md
-      - 'Jamaïcain':
-          - 'Riz aux haricots': recettes/riz-aux-haricots.md
-      - 'Québécois':
-          - 'Beans dans le sirop': recettes/beans.md
-          - 'Bouilli de porc': recettes/bouilli-de-porc.md
-          - 'Crêpes': recettes/crepes.md
-          - 'Eggs Newport': recettes/eggs-newport.md
-          - 'Muffins déjeuner': recettes/muffins-dejeuner.md
-          - 'Pain doré': recettes/pain-dore.md
-          - 'Soupe de pommes de terre et cheddar': recettes/soupe-patates-cheddar.md
-      - 'Desserts':
-          - 'Carrés aux dattes': recettes/carres-aux-dattes.md
-          - 'Croustade aux pommes': recettes/croustade-pommes.md
-          - 'Gâteau graham': recettes/gateau-graham.md
-          - 'Gaufres': recettes/gaufres.md
-          - 'Grand-père dans le sirop': recettes/grand-pere.md
-          - 'Muffin avoine et chocolat': recettes/muffins-avoine-chocolat.md
-          - 'Pain aux bananes': recettes/pain-bananes.md
-          - 'Renversé aux fraises': recettes/renverse-aux-fraises.md
+  - "Accueil": index.md
+  - "Bookmarks": bookmarks.md
+  - "Horaire": horaire.md
+  - "Cours":
+      - "Bases de données 1": bd1.md
+      - "Bases de données 2": bd2.md
+      - "Développement Web 3": devweb3.md
+      - "Piratage éthique": piratage.md
+      - "Support technique": support.md
+      - "Technologies émergentes": techno.md
+  - "Pédagogie": pedagogie.md
+  - "Karine": karine.md
+  - "Humour": humour.md
+  - "Maison": maison.md
+  - "Outils":
+      - "Documentation": documentation.md
+      - "Données": donnees.md
+      - "Git": git.md
+      - "Langues": langues.md
+      - "Développement": developpement.md
+      - "Mac": mac.md
+      - "Bâtir mac": buildmac.md
+  - "Liste de lecture": readinglist.md
+  - "Retraite": retraite.md
+  - "Estrimont": estrimont.md
+  - "Recettes":
+      - "Livre de recettes": recettes/livre.md
+      - "Anglais":
+          - "Popover": recettes/popover.md
+      - "Asiatique":
+          - "Sauce arachide": recettes/sauce-arachide.md
+      - "Français":
+          - "Boeuf bourguignon": recettes/boeuf-bourguignon.md
+          - "Pommes de terre à la bretonne": recettes/pommes-terre-bretonnes.md
+      - "Indien":
+          - "Curry de pois chiches": recettes/curry-pois-chiches.md
+          - "Naan": recettes/naan.md
+      - "Italien":
+          - "Carbonara": recettes/carbonara.md
+      - "Jamaïcain":
+          - "Riz aux haricots": recettes/riz-aux-haricots.md
+      - "Québécois":
+          - "Beans dans le sirop": recettes/beans.md
+          - "Bouilli de porc": recettes/bouilli-de-porc.md
+          - "Crêpes": recettes/crepes.md
+          - "Eggs Newport": recettes/eggs-newport.md
+          - "Muffins déjeuner": recettes/muffins-dejeuner.md
+          - "Pain doré": recettes/pain-dore.md
+          - "Soupe de pommes de terre et cheddar": recettes/soupe-patates-cheddar.md
+          - "Crème de patates": recettes/creme-de-patates.md
+      - "Desserts":
+          - "Carrés aux dattes": recettes/carres-aux-dattes.md
+          - "Croustade aux pommes": recettes/croustade-pommes.md
+          - "Gâteau graham": recettes/gateau-graham.md
+          - "Gaufres": recettes/gaufres.md
+          - "Grand-père dans le sirop": recettes/grand-pere.md
+          - "Muffin avoine et chocolat": recettes/muffins-avoine-chocolat.md
+          - "Pain aux bananes": recettes/pain-bananes.md
+          - "Renversé aux fraises": recettes/renverse-aux-fraises.md
 
 theme:
   name: material
