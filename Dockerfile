@@ -33,6 +33,8 @@ RUN echo 'mkdocsuser:Xy_XHR=H$#BvDFTuVtL9MM' | chpasswd
 RUN mkdir /home/mkdocsuser/.ssh && \
     chown mkdocsuser:mkdocsuser /home/mkdocsuser/.ssh
 
+RUN echo PATH=\"/opt/mkdocs-venv/bin:\$PATH\" >> /home/mkdocsuser/.profile
+
 # Add GitHub's public key to known_hosts to avoid interactive prompts
 RUN ssh-keyscan github.com >> /home/mkdocsuser/.ssh/known_hosts \
     && chown mkdocsuser:mkdocsuser /home/mkdocsuser/.ssh/known_hosts
