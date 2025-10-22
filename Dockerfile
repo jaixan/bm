@@ -14,6 +14,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     python3-venv \
     git \
     openssh-client \
+    nano \
     && rm -rf /var/lib/apt/lists/*
 
 # Create virtual environment for Python (optional)
@@ -21,7 +22,12 @@ RUN python3 -m venv /opt/mkdocs-venv
 ENV PATH="/opt/mkdocs-venv/bin:$PATH"
 
 # Install MkDocs
-RUN pip3 install mkdocs-material markdown-include openpyxl pyyaml
+RUN pip3 install mkdocs-material \ 
+                 markdown-include \ 
+                 openpyxl \
+                 pyyaml \
+                 mkdocs-video \
+                 mkdocs-table-reader-plugin
 
 # Create a non-root user for SSH access
 RUN useradd -m -s /bin/bash mkdocsuser
@@ -34,6 +40,11 @@ RUN mkdir /home/mkdocsuser/.ssh && \
     chown mkdocsuser:mkdocsuser /home/mkdocsuser/.ssh
 
 RUN echo PATH=\"/opt/mkdocs-venv/bin:\$PATH\" >> /home/mkdocsuser/.profile
+RUN echo PATH=\"/opt/mkdocs-venv/bin:\$PATH\" >> /home/mkdocsuser/.bashrc
+RUN echo eval \"\$\(ssh-agent -s\)\" >> /home/mkdocsuser/.profile
+RUN echo eval \"\$\(ssh-agent -s\)\" >> /home/mkdocsuser/.bashrc
+RUN echo ssh-add /home/mkdocsuser/.ssh/id_ed25519 >> /home/mkdocsuser/.profile
+RUN echo ssh-add /home/mkdocsuser/.ssh/id_ed25519 >> /home/mkdocsuser/.bashrc
 
 # Add GitHub's public key to known_hosts to avoid interactive prompts
 RUN ssh-keyscan github.com >> /home/mkdocsuser/.ssh/known_hosts \
@@ -58,6 +69,11 @@ RUN --mount=type=ssh git clone git@github.com:cegepvictoetienne/techinfo.git /no
     chown -R mkdocsuser:mkdocsuser /notes_de_cours/techinfo
 RUN --mount=type=ssh git clone git@github.com:cegepvictoetienne/support.git /notes_de_cours/support && \
     chown -R mkdocsuser:mkdocsuser /notes_de_cours/support
+RUN --mount=type=ssh git clone git@github.com:cegepvictoetienne/bd1.git /notes_de_cours/bd1 && \
+    chown -R mkdocsuser:mkdocsuser /notes_de_cours/bd1
+RUN --mount=type=ssh git clone git@github.com:cegepvictoetienne/bd2.git /notes_de_cours/bd2 && \
+    chown -R mkdocsuser:mkdocsuser /notes_de_cours/bd2
+
 
 
 # Allow password-based authentication (for simplicity, consider key-based auth for production)
