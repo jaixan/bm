@@ -105,4 +105,4 @@
 
 - [Balatro Wiki | Fandom](https://balatrogame.fandom.com/wiki/Balatro_Wiki)
 
-## Test n8n - 1
+## Test n8n - mobile
