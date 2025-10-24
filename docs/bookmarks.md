@@ -76,6 +76,7 @@
 
 ## SysAdmin
 
+
 ## Support technique
 
 - [Excel Password Recovery Online — Unprotect Excel Workbook/Sheet Without a Password](https://www.lostmypass.com/file-types/ms-excel/)
@@ -104,5 +105,3 @@
 ## Jeux
 
 - [Balatro Wiki | Fandom](https://balatrogame.fandom.com/wiki/Balatro_Wiki)
-
-## Test n8n - mobile

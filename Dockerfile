@@ -15,6 +15,9 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     git \
     openssh-client \
     nano \
+    nginx \
+    curl \
+    supervisor \
     && rm -rf /var/lib/apt/lists/*
 
 # Create virtual environment for Python (optional)
@@ -74,7 +77,17 @@ RUN --mount=type=ssh git clone git@github.com:cegepvictoetienne/bd1.git /notes_d
 RUN --mount=type=ssh git clone git@github.com:cegepvictoetienne/bd2.git /notes_de_cours/bd2 && \
     chown -R mkdocsuser:mkdocsuser /notes_de_cours/bd2
 
+# Remove the default Nginx configuration file
+RUN rm /etc/nginx/nginx.conf
 
+# Copy your custom nginx.conf
+COPY nginx.conf /etc/nginx/nginx.conf
+
+# Copy index.html to nginx html directory
+COPY index.html /usr/share/nginx/html/index.html
+
+# Copy the supervisor configuration file
+COPY supervisord.conf /etc/supervisor/conf.d/supervisord.conf
 
 # Allow password-based authentication (for simplicity, consider key-based auth for production)
 RUN sed -i 's/#PasswordAuthentication yes/PasswordAuthentication no/' /etc/ssh/sshd_config
@@ -84,6 +97,8 @@ RUN sed -i 's/#PubkeyAuthentication yes/PubkeyAuthentication yes/' /etc/ssh/sshd
 RUN sed -i 's/UsePAM yes/UsePAM no/' /etc/ssh/sshd_config
 # Expose the SSH port
 EXPOSE 22
+# Expose the HTTP port 
+EXPOSE 80
 
-# Start the SSH server
-CMD ["/usr/sbin/sshd", "-D"]
+# Start supervisor which in turn starts nginx and sshd
+CMD ["/usr/bin/supervisord"]
