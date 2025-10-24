@@ -10,3 +10,5 @@ docker exec notes_de_cours chown mkdocsuser:mkdocsuser /home/mkdocsuser/.ssh/id_
 docker exec notes_de_cours chown mkdocsuser:mkdocsuser /home/mkdocsuser/.ssh
 docker exec notes_de_cours chmod 700 /home/mkdocsuser/.ssh
 docker exec notes_de_cours chmod 600 /home/mkdocsuser/.ssh/authorized_keys
+docker exec notes_de_cours chown mkdocsuser:mkdocsuser /usr/share/nginx/html/
+
