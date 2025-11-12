@@ -38,7 +38,8 @@ nav:
           - "Pommes de terre à la bretonne": recettes/pommes-terre-bretonnes.md
       - "Indien":
           - "Curry de pois chiches": recettes/curry-pois-chiches.md
-          - "Naan": recettes/naan.md
+          - "Naan": recettes/naan.md  
+          - "Dumpling bake": recettes/dumpling-bake.md  
       - "Italien":
           - "Carbonara": recettes/carbonara.md
           - "Soupe tortellini": recettes/soupe-tortellini.md
