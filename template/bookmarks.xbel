@@ -102,24 +102,6 @@
     <title>Offres de stage dans la fonction publique QC</title>
   </bookmark>
 </folder>
-<folder id="40">
-  <title>Veille</title>
-  <bookmark href="https://tldr.tech/" id="41">
-    <title>TLDR</title>
-  </bookmark>
-  <bookmark href="https://news.ycombinator.com/" id="42">
-    <title>Hacker News</title>
-  </bookmark>
-  <bookmark href="https://www.reddit.com/" id="43">
-    <title>Reddit</title>
-  </bookmark>
-  <bookmark href="https://tldr.tech/" id="24">
-    <title>TLDR</title>
-  </bookmark>
-  <bookmark href="https://gandalf.lakera.ai/baseline" id="34">
-    <title>Gandalf | Lakera – Test your AI hacking skills</title>
-  </bookmark>
-</folder>
 <folder id="50">
   <title>Impôts</title>
   <bookmark href="https://www.revenuquebec.ca/fr/" id="51">
@@ -232,6 +214,24 @@
   <title>Jeux</title>
   <bookmark href="https://balatrogame.fandom.com/wiki/Balatro_Wiki" id="33">
     <title>Balatro Wiki | Fandom</title>
+  </bookmark>
+</folder>
+<folder id="40">
+  <title>IA</title>
+  <bookmark href="https://tldr.tech/" id="41">
+    <title>TLDR</title>
+  </bookmark>
+  <bookmark href="https://news.ycombinator.com/" id="42">
+    <title>Hacker News</title>
+  </bookmark>
+  <bookmark href="https://www.reddit.com/" id="43">
+    <title>Reddit</title>
+  </bookmark>
+  <bookmark href="https://tldr.tech/" id="24">
+    <title>TLDR</title>
+  </bookmark>
+  <bookmark href="https://gandalf.lakera.ai/baseline" id="34">
+    <title>Gandalf | Lakera – Test your AI hacking skills</title>
   </bookmark>
 </folder>
 </xbel>
