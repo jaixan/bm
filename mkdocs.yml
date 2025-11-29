@@ -54,6 +54,8 @@ nav:
           - "Pain doré": recettes/pain-dore.md
           - "Soupe de pommes de terre et cheddar": recettes/soupe-patates-cheddar.md
           - "Crème de patates": recettes/creme-de-patates.md
+      - "Pains":
+          - "No nead bread": recettes/pain.md
       - "Desserts":
           - "Carrés aux dattes": recettes/carres-aux-dattes.md
           - "Croustade aux pommes": recettes/croustade-pommes.md
