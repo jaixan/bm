@@ -45,6 +45,8 @@ nav:
           - "Soupe tortellini": recettes/soupe-tortellini.md
       - "Jamaïcain":
           - "Riz aux haricots": recettes/riz-aux-haricots.md
+      - "Mexicain":
+          - "Sauce Taco Bell": recettes/tacobellsauce.md  
       - "Québécois":
           - "Beans dans le sirop": recettes/beans.md
           - "Bouilli de porc": recettes/bouilli-de-porc.md
