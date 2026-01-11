@@ -1,28 +1,14 @@
-# no knead bread
+# Dutch Oven Bread
 
 # Ingredients:  
-- 430g bread flour (3.5cups)  
-- 390g water (1.5c + 2tbs)  
-- 12g salt (2tsp)  
-- 1/4tsp yeast  
 
-Use high gluten (bread flour) for best results and that chewy crumb!  
+- 3 cup bread flour  
+- 1 tsp salt  
+- 1 tsp yeast  
+- 1 1/2 cup warm water  
 
 # Method:  
-- Mix everything together until there is no more visible flour  
-- Cover with a damp towel or plastic wrap.  
-- Ferment at room temperature for 12-18+hours  (this loaf was 16hr)  
-- After the time, wet your hands and stretch and fold in all the sides.  
+- In a large bowl, whisk 3 cups flour, yeast and salt. Stir in water and enough remaining flour to form a moist, shaggy dough. Do not knead. Cover and let rise in a cool place until doubled, 7-8 hours.  
+- Preheat oven to 450°; place a Dutch oven with lid on center rack and heat for at least 30 minutes. Once Dutch oven is heated, turn out dough onto a generously floured surface. Using a metal scraper or spatula, quickly shape into a round loaf. Gently place on a piece of parchment.  
+- Using a sharp knife, make a 1/4-in.-deep slash across top of loaf. Using the parchment, immediately lower bread into heated Dutch oven. Cover; bake for 30 minutes. Uncover and bake until bread is deep golden brown and sounds hollow when tapped, 15-20 minutes longer, partially covering if it's browning too much. Remove loaf from pan and cool completely on a wire rack.  
 
-- Move to parchment paper, seam side down. (this makes putting the bread in easier)  
-- Proof for 2 hours (i use the same bowl to cover it)  
-- Preheat your oven with your cast iron or dutch oven for 1 hour (450F)  
-- Dust the top of your loaf with a little flour and cut straight down the middle.  
-- You can use a scissor for this part too. This lets the steam escape in a controlled manner  .
-
-- Transfer your bread into your pan carefully.  
-- Bake Covered for 30 minutes.  
-- Take the lid off and bake uncovered for 25-30 minutes more.  
-- Let it cool on a wire rack. Boom Bbby!!!! Nice job!!  
-
-The key to the crust is to bake it longer than you think.  Your oven is going to be dark so the bread will look darker than it actually is.  I usually go the full 30 minutes.
