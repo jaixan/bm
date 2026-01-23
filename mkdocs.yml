@@ -45,6 +45,8 @@ nav:
           - "Soupe tortellini": recettes/soupe-tortellini.md
       - "Jamaïcain":
           - "Riz aux haricots": recettes/riz-aux-haricots.md
+      - "Mexicain":
+          - "Sauce Taco Bell": recettes/tacobellsauce.md  
       - "Québécois":
           - "Beans dans le sirop": recettes/beans.md
           - "Bouilli de porc": recettes/bouilli-de-porc.md
@@ -52,8 +54,12 @@ nav:
           - "Eggs Newport": recettes/eggs-newport.md
           - "Muffins déjeuner": recettes/muffins-dejeuner.md
           - "Pain doré": recettes/pain-dore.md
+          - "Roti à la Louise": recettes/roti-louise.md
           - "Soupe de pommes de terre et cheddar": recettes/soupe-patates-cheddar.md
+          - "Soupe broccoli": recettes/soupebroccoli.md  
           - "Crème de patates": recettes/creme-de-patates.md
+      - "Pains":
+          - "Dutch Oven Bread": recettes/pain.md
       - "Desserts":
           - "Carrés aux dattes": recettes/carres-aux-dattes.md
           - "Croustade aux pommes": recettes/croustade-pommes.md
