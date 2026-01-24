@@ -38,15 +38,15 @@ nav:
           - "Pommes de terre à la bretonne": recettes/pommes-terre-bretonnes.md
       - "Indien":
           - "Curry de pois chiches": recettes/curry-pois-chiches.md
-          - "Naan": recettes/naan.md  
-          - "Dumpling bake": recettes/dumpling-bake.md  
+          - "Naan": recettes/naan.md
+          - "Dumpling bake": recettes/dumpling-bake.md
       - "Italien":
           - "Carbonara": recettes/carbonara.md
           - "Soupe tortellini": recettes/soupe-tortellini.md
       - "Jamaïcain":
           - "Riz aux haricots": recettes/riz-aux-haricots.md
       - "Mexicain":
-          - "Sauce Taco Bell": recettes/tacobellsauce.md  
+          - "Sauce Taco Bell": recettes/tacobellsauce.md
       - "Québécois":
           - "Beans dans le sirop": recettes/beans.md
           - "Bouilli de porc": recettes/bouilli-de-porc.md
@@ -56,7 +56,8 @@ nav:
           - "Pain doré": recettes/pain-dore.md
           - "Roti à la Louise": recettes/roti-louise.md
           - "Soupe de pommes de terre et cheddar": recettes/soupe-patates-cheddar.md
-          - "Soupe broccoli": recettes/soupebroccoli.md  
+          - "Soupe broccoli": recettes/soupebroccoli.md
+          - "Soupe de poulet": recettes/chicken-soup.md
           - "Crème de patates": recettes/creme-de-patates.md
       - "Pains":
           - "Dutch Oven Bread": recettes/pain.md
