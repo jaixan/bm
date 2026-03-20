@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :36: for Floccus bookmark sync browser extension -->
+<!--- highestId :39: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Cégep</title>
@@ -23,9 +23,6 @@
   <bookmark href="https://techinfo.profinfo.ca/" id="8">
     <title>Techniques de l&apos;informatique</title>
   </bookmark>
-  <bookmark href="https://horaire.profinfo.ca/" id="9">
-    <title>Générateur horaire</title>
-  </bookmark>
   <bookmark href="https://puma.cs.tum.edu/" id="10">
     <title>Visualisateur .ical</title>
   </bookmark>
@@ -35,8 +32,8 @@
   <bookmark href="https://www.cegepvicto.ca/wp-content/uploads/2023/04/Politique-institutionnelle-devaluation-des-apprentissages-PIEA.pdf" id="12">
     <title>PIEA</title>
   </bookmark>
-  <bookmark href="https://fec.lacsq.org/calculateur-ci/" id="8">
-    <title>Calculateur CI - Fédération de l’enseignement collégial (FEC-CSQ)</title>
+  <bookmark href="https://horaire.profinfo.ca/" id="9">
+    <title>Générateur horaire</title>
   </bookmark>
   <bookmark href="https://mermaid.js.org/intro/" id="13">
     <title>Mermaid</title>
@@ -46,18 +43,6 @@
   </bookmark>
   <bookmark href="https://192.168.100.47/stat/welcome.php" id="19">
     <title>Imprimer ses examens au local E203</title>
-  </bookmark>
-  <bookmark href="https://crontab.guru/" id="10">
-    <title>Crontab.guru - The cron schedule expression generator</title>
-  </bookmark>
-  <bookmark href="https://www.recraft.ai/projects" id="7">
-    <title>Recraft</title>
-  </bookmark>
-  <bookmark href="https://aistudio.google.com/prompts/new_chat" id="11">
-    <title>Google AI Studio</title>
-  </bookmark>
-  <bookmark href="https://console.anthropic.com/settings/billing" id="12">
-    <title>Anthropic Console</title>
   </bookmark>
   <bookmark href="https://vpn.cyberquebec.org/remote/login?lang=en" id="23">
     <title>Réseau CyberQuébec</title>
@@ -71,14 +56,14 @@
   <bookmark href="https://bd2.profinfo.ca/" id="23">
     <title>Bases de données 2</title>
   </bookmark>
-  <bookmark href="https://piratage.profinfo.ca/" id="24">
-    <title>Piratage Éthique</title>
-  </bookmark>
   <bookmark href="https://web3.profinfo.ca/" id="25">
     <title>Développement Web 3</title>
   </bookmark>
   <bookmark href="https://techno.profinfo.ca/" id="26">
     <title>Technologies émergentes</title>
+  </bookmark>
+  <bookmark href="https://piratage.profinfo.ca/" id="37">
+    <title>Piratage Éthique</title>
   </bookmark>
 </folder>
 <folder id="30">
@@ -158,6 +143,9 @@
 </bookmark>
 <folder id="9">
   <title>SysAdmin</title>
+  <bookmark href="http://sushishop/admin/login" id="38">
+    <title>Pi-hole sushishop</title>
+  </bookmark>
 </folder>
 <folder id="14">
   <title>Support technique</title>
@@ -172,6 +160,9 @@
   </bookmark>
   <bookmark href="https://vitrinelinguistique.oqlf.gouv.qc.ca/" id="27">
     <title>La Vitrine linguistique de l’Office québécois de la langue française</title>
+  </bookmark>
+  <bookmark href="https://app.gestrio.ca/dashboard/home" id="39">
+    <title>Gestrio - Accueil</title>
   </bookmark>
 </folder>
 <folder id="40">
@@ -200,8 +191,8 @@
   <bookmark href="https://www.reddit.com/" id="26">
     <title>Reddit</title>
   </bookmark>
-  <bookmark href="https://chat.openai.com/" id="21">
-    <title>ChatGPT</title>
+  <bookmark href="https://tldr.tech/" id="24">
+    <title>TLDR</title>
   </bookmark>
 </folder>
 <folder id="28">

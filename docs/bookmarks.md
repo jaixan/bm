@@ -10,27 +10,22 @@
 - [Ressources humaines - Home](https://cegepvicto.sharepoint.com/sites/ressources-humaines)
 - [Programme de la technique de l'informatique](https://www.cegepvicto.ca/programme/techniques-informatique/)
 - [Techniques de l'informatique](https://techinfo.profinfo.ca/)
-- [Générateur horaire](https://horaire.profinfo.ca/)
 - [Visualisateur .ical](https://puma.cs.tum.edu/)
 - [Calendrier scolaires](https://www.cegepvicto.ca/eleves-actuels/services-eleve/calendriers-scolaires/)
 - [PIEA](https://www.cegepvicto.ca/wp-content/uploads/2023/04/Politique-institutionnelle-devaluation-des-apprentissages-PIEA.pdf)
-- [Calculateur CI - Fédération de l’enseignement collégial (FEC-CSQ)](https://fec.lacsq.org/calculateur-ci/)
+- [Générateur horaire](https://horaire.profinfo.ca/)
 - [Mermaid](https://mermaid.js.org/intro/)
 - [Pricing | Raiseaticket - 100% Free cloud helpdesk SaaS](https://raiseaticket.com/pricing)
 - [Imprimer ses examens au local E203](https://192.168.100.47/stat/welcome.php)
-- [Crontab.guru - The cron schedule expression generator](https://crontab.guru/)
-- [Recraft](https://www.recraft.ai/projects)
-- [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
-- [Anthropic Console](https://console.anthropic.com/settings/billing)
 - [Réseau CyberQuébec](https://vpn.cyberquebec.org/remote/login?lang=en)
 
 ## Notes de cours
 
 - [Bases de données 1](https://bd1.profinfo.ca/)
 - [Bases de données 2](https://bd2.profinfo.ca/)
-- [Piratage Éthique](https://piratage.profinfo.ca/)
 - [Développement Web 3](https://web3.profinfo.ca/)
 - [Technologies émergentes](https://techno.profinfo.ca/)
+- [Piratage Éthique](https://piratage.profinfo.ca/)
 
 ## Stages
 
@@ -68,6 +63,7 @@
 
 ## SysAdmin
 
+- [Pi-hole sushishop](http://sushishop/admin/login)
 
 ## Support technique
 
@@ -77,6 +73,7 @@
 
 - [CORAIL - Accueil (Conventions collectives)](https://www.corail.gouv.qc.ca/abonnement/docs/accueil.do)
 - [La Vitrine linguistique de l’Office québécois de la langue française](https://vitrinelinguistique.oqlf.gouv.qc.ca/)
+- [Gestrio - Accueil](https://app.gestrio.ca/dashboard/home)
 
 ## IA
 
@@ -88,7 +85,7 @@
 - [ChatGPT API Usage](https://platform.openai.com/usage)
 - [Hacker News](https://news.ycombinator.com/)
 - [Reddit](https://www.reddit.com/)
-- [ChatGPT](https://chat.openai.com/)
+- [TLDR](https://tldr.tech/)
 
 ## Youtube
 
