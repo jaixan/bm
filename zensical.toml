@@ -49,6 +49,7 @@ nav = [
     {"Italien" = [
       {"Carbonara" = "recettes/carbonara.md"},
       {"Soupe tortellini" = "recettes/soupe-tortellini.md"},
+      {"Dumb lasagna" = "recettes/dumb-lasagna.md"},
     ]},
     {"Jamaïcain" = [
       {"Riz aux haricots" = "recettes/riz-aux-haricots.md"},
