@@ -32,8 +32,8 @@
 - [Odoo](https://cegep-de-victo.odoo.com/)
 - [PDF to PDF-A](https://www.pdftron.com/pdf-tools/pdfa-converter/)
 - [Accueillez un stagiaire](https://pratiquesrh.com/fr/accueillez-un-stagiaire)
-- [Cnesst Sensibilisation jeunesse](https://www.cnesst.gouv.qc.ca/fr/campagnes-sensibilisation-promotion/poser-questions-ca-ne-fait-pas-mal?utm_campaign=CSPQ%7CCNESST%7CBrand%7CJeunesse%7CQ2%7C2022%7CFR/EN%7C%7C1016334%7C5698-IU-P201&utm_medium=Social&utm_source=LinkedIn&utm_content=1920x1080-fille-fr)
 - [Offres de stage dans la fonction publique QC](https://www.carrieres.gouv.qc.ca/stages-dans-la-fonction-publique)
+- [Cnesst Sensibilisation jeunesse](https://www.cnesst.gouv.qc.ca/fr/campagnes-sensibilisation-promotion/poser-questions-ca-ne-fait-pas-mal?utm_campaign=CSPQ%7CCNESST%7CBrand%7CJeunesse%7CQ2%7C2022%7CFR/EN%7C%7C1016334%7C5698-IU-P201&utm_medium=Social&utm_source=LinkedIn&utm_content=1920x1080-fille-fr)
 
 ## Impôts
 
@@ -60,6 +60,7 @@
 - [Histoires dodo | Dodo Feed](https://www.notion.so/2407425d2af4809ba877c649c87c2871?v=2407425d2af4801298f6000ca84d7dbe)
 - [Propriété Victo N8N](https://guizmo.profinfo.ca/form/82f68f26-2622-42bc-9457-ecd530b55a75)
 - [YOLOx ONNX models use in Frigate – MICHAŁ SOBCZAK](https://michalasobczak.pl/ai-ml/2025/09/yolox-onnx-models-use-in-frigate/)
+- [FreshRSS](http://rss.profinfo.ca/i/)
 
 ## SysAdmin
 
@@ -86,11 +87,13 @@
 - [Hacker News](https://news.ycombinator.com/)
 - [Reddit](https://www.reddit.com/)
 - [TLDR](https://tldr.tech/)
+- [Gandalf | Lakera – Test your AI hacking skills](https://gandalf.lakera.ai/baseline)
 
 ## Youtube
 
 - [Hedra - Génération de podcast](https://www.hedra.com/app/video)
 - [Tableau de bord de la chaîne - YouTube Studio](https://studio.youtube.com/channel/UCQh12k-bthibq-zI0vHMWFw)
+- [YouTube Downloader - Download YouTube Videos in HD | YTDown](https://app.ytdown.to/en27/)
 
 ## Jeux
 
@@ -103,3 +106,8 @@
 - [Reddit](https://www.reddit.com/)
 - [TLDR](https://tldr.tech/)
 - [Gandalf | Lakera – Test your AI hacking skills](https://gandalf.lakera.ai/baseline)
+
+## Dev Web
+
+- [Icons – Lucide](https://lucide.dev/icons/)
+- [Exercice - useReducer - Développement Web 3](http://localhost:8000/exercices/react/react_usereducer/#etape-5-construire-linterface)

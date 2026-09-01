@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :39: for Floccus bookmark sync browser extension -->
+<!--- highestId :45: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Cégep</title>
@@ -77,11 +77,11 @@
   <bookmark href="https://pratiquesrh.com/fr/accueillez-un-stagiaire" id="33">
     <title>Accueillez un stagiaire</title>
   </bookmark>
-  <bookmark href="https://www.cnesst.gouv.qc.ca/fr/campagnes-sensibilisation-promotion/poser-questions-ca-ne-fait-pas-mal?utm_campaign=CSPQ%7CCNESST%7CBrand%7CJeunesse%7CQ2%7C2022%7CFR/EN%7C%7C1016334%7C5698-IU-P201&amp;utm_medium=Social&amp;utm_source=LinkedIn&amp;utm_content=1920x1080-fille-fr" id="34">
-    <title>Cnesst Sensibilisation jeunesse</title>
-  </bookmark>
   <bookmark href="https://www.carrieres.gouv.qc.ca/stages-dans-la-fonction-publique" id="35">
     <title>Offres de stage dans la fonction publique QC</title>
+  </bookmark>
+  <bookmark href="https://www.cnesst.gouv.qc.ca/fr/campagnes-sensibilisation-promotion/poser-questions-ca-ne-fait-pas-mal?utm_campaign=CSPQ%7CCNESST%7CBrand%7CJeunesse%7CQ2%7C2022%7CFR/EN%7C%7C1016334%7C5698-IU-P201&amp;utm_medium=Social&amp;utm_source=LinkedIn&amp;utm_content=1920x1080-fille-fr" id="44">
+    <title>Cnesst Sensibilisation jeunesse</title>
   </bookmark>
 </folder>
 <folder id="50">
@@ -136,6 +136,9 @@
   </bookmark>
   <bookmark href="https://michalasobczak.pl/ai-ml/2025/09/yolox-onnx-models-use-in-frigate/" id="36">
     <title>YOLOx ONNX models use in Frigate – MICHAŁ SOBCZAK</title>
+  </bookmark>
+  <bookmark href="http://rss.profinfo.ca/i/" id="45">
+    <title>FreshRSS</title>
   </bookmark>
 </folder>
 <bookmark href="https://bm.kerzo.ca/" id="1">
@@ -194,6 +197,9 @@
   <bookmark href="https://tldr.tech/" id="24">
     <title>TLDR</title>
   </bookmark>
+  <bookmark href="https://gandalf.lakera.ai/baseline" id="34">
+    <title>Gandalf | Lakera – Test your AI hacking skills</title>
+  </bookmark>
 </folder>
 <folder id="28">
   <title>Youtube</title>
@@ -202,6 +208,9 @@
   </bookmark>
   <bookmark href="https://studio.youtube.com/channel/UCQh12k-bthibq-zI0vHMWFw" id="30">
     <title>Tableau de bord de la chaîne - YouTube Studio</title>
+  </bookmark>
+  <bookmark href="https://app.ytdown.to/en27/" id="40">
+    <title>YouTube Downloader - Download YouTube Videos in HD | YTDown</title>
   </bookmark>
 </folder>
 <folder id="32">
@@ -226,6 +235,15 @@
   </bookmark>
   <bookmark href="https://gandalf.lakera.ai/baseline" id="34">
     <title>Gandalf | Lakera – Test your AI hacking skills</title>
+  </bookmark>
+</folder>
+<folder id="41">
+  <title>Dev Web</title>
+  <bookmark href="https://lucide.dev/icons/" id="42">
+    <title>Icons – Lucide</title>
+  </bookmark>
+  <bookmark href="http://localhost:8000/exercices/react/react_usereducer/#etape-5-construire-linterface" id="43">
+    <title>Exercice - useReducer - Développement Web 3</title>
   </bookmark>
 </folder>
 </xbel>
