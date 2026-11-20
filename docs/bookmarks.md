@@ -61,6 +61,7 @@
 - [Propriété Victo N8N](https://guizmo.profinfo.ca/form/82f68f26-2622-42bc-9457-ecd530b55a75)
 - [YOLOx ONNX models use in Frigate – MICHAŁ SOBCZAK](https://michalasobczak.pl/ai-ml/2025/09/yolox-onnx-models-use-in-frigate/)
 - [FreshRSS](http://rss.profinfo.ca/i/)
+- [qBittorrent v5.1.0 WebUI](http://sushishop.tail5134be.ts.net:8080/)
 
 ## SysAdmin
 
